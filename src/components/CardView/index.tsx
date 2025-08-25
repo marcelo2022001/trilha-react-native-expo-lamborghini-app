@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { View, Text, Button, Image } from "react-native";
 
-import Logo from "../../../assets/logo.png";
+import Logo from "../../../assets/logo-lamborghini.png";
 import { styles } from "./style";
 import Divider from "../Divider";
 import { CAR_ASSETS_BASE_URL } from "../../constants/car";
